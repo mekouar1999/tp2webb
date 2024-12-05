@@ -1,19 +1,8 @@
-h2{
-    text-align: center
-    ;
+h1{
+    text-align: center;
+    color: blue;
 }
 
-
-
-.div1{
-    width: 100px;
-    height: 100px;
-    background: black;
-}
-
-.div2{
-    height: 200px;
-    width: 100px;
-    background-color: blueviolet;
-    margin-top: 10px;
+span{
+    color: yellow;
 }
